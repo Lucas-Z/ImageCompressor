@@ -1,1 +1,1 @@
-# ImageCompressor
+# imageCompressor
